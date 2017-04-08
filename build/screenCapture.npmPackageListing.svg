@@ -1,142 +1,142 @@
 <svg height="2222" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2222" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-08 09:56:56 +0000   694977 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-08 09:56:56 +0000      958 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-08 09:56:56 +0000      340 bytes  ISSUE_TEMPLATE.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-08 09:56:56 +0000     1066 bytes  LICENSE.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-08 09:56:56 +0000    12543 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-08 09:56:56 +0000      497 bytes  bower.json</tspan>
-<tspan x="10" y="122">  6.  2017-04-08 09:56:56 +0000    12867 bytes  dist/flatpickr.css</tspan>
-<tspan x="10" y="138">  7.  2017-04-08 09:56:56 +0000    66338 bytes  dist/flatpickr.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-08 09:56:56 +0000    10983 bytes  dist/flatpickr.min.css</tspan>
-<tspan x="10" y="170">  9.  2017-04-08 09:56:56 +0000    40404 bytes  dist/flatpickr.min.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-08 09:56:56 +0000      743 bytes  dist/l10n/ar.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-08 09:56:56 +0000      791 bytes  dist/l10n/bg.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-08 09:56:56 +0000     1080 bytes  dist/l10n/bn.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-08 09:56:56 +0000      929 bytes  dist/l10n/cat.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-08 09:56:56 +0000      740 bytes  dist/l10n/cs.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-08 09:56:56 +0000     1206 bytes  dist/l10n/cy.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-08 09:56:56 +0000      688 bytes  dist/l10n/da.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-08 09:56:56 +0000      756 bytes  dist/l10n/de.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-08 09:56:56 +0000      736 bytes  dist/l10n/es.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-08 09:56:56 +0000      957 bytes  dist/l10n/et.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-08 09:56:56 +0000      887 bytes  dist/l10n/fa.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-08 09:56:56 +0000      779 bytes  dist/l10n/fi.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-08 09:56:56 +0000      779 bytes  dist/l10n/fr.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-08 09:56:56 +0000      736 bytes  dist/l10n/he.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-08 09:56:56 +0000      967 bytes  dist/l10n/hi.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-08 09:56:56 +0000      690 bytes  dist/l10n/hr.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-08 09:56:56 +0000      908 bytes  dist/l10n/hu.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-08 09:56:56 +0000      721 bytes  dist/l10n/id.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-08 09:56:56 +0000      883 bytes  dist/l10n/it.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-08 09:56:56 +0000      638 bytes  dist/l10n/ja.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-08 09:56:56 +0000      709 bytes  dist/l10n/ko.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-08 09:56:56 +0000      953 bytes  dist/l10n/lt.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-08 09:56:56 +0000      708 bytes  dist/l10n/lv.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-08 09:56:56 +0000      969 bytes  dist/l10n/mk.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-08 09:56:56 +0000      717 bytes  dist/l10n/ms.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-08 09:56:56 +0000     1087 bytes  dist/l10n/my.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-08 09:56:56 +0000      796 bytes  dist/l10n/nl.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-08 09:56:56 +0000      689 bytes  dist/l10n/no.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-08 09:56:56 +0000      961 bytes  dist/l10n/pa.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-08 09:56:56 +0000      708 bytes  dist/l10n/pl.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-08 09:56:56 +0000      712 bytes  dist/l10n/pt.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-08 09:56:56 +0000      741 bytes  dist/l10n/ro.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-08 09:56:56 +0000      853 bytes  dist/l10n/ru.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-08 09:56:56 +0000     1040 bytes  dist/l10n/si.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-08 09:56:56 +0000      629 bytes  dist/l10n/sq.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-08 09:56:56 +0000      790 bytes  dist/l10n/sr.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-08 09:56:56 +0000      774 bytes  dist/l10n/sv.js</tspan>
-<tspan x="10" y="778"> 47.  2017-04-08 09:56:56 +0000     1297 bytes  dist/l10n/th.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-08 09:56:56 +0000      671 bytes  dist/l10n/tr.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-08 09:56:56 +0000      857 bytes  dist/l10n/uk.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-08 09:56:56 +0000      752 bytes  dist/l10n/vn.js</tspan>
-<tspan x="10" y="842"> 51.  2017-04-08 09:56:56 +0000      714 bytes  dist/l10n/zh.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-08 09:56:56 +0000      373 bytes  dist/plugins/confirmDate/confirmDate.css</tspan>
-<tspan x="10" y="874"> 53.  2017-04-08 09:56:56 +0000     1723 bytes  dist/plugins/confirmDate/confirmDate.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-08 09:56:56 +0000      305 bytes  dist/plugins/labelPlugin/labelPlugin.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-08 09:56:56 +0000      100 bytes  dist/plugins/weekSelect/weekSelect.css</tspan>
-<tspan x="10" y="922"> 56.  2017-04-08 09:56:56 +0000     1873 bytes  dist/plugins/weekSelect/weekSelect.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-08 09:56:56 +0000        0 bytes  dist/rtl/flatpickr.min.css</tspan>
-<tspan x="10" y="954"> 58.  2017-04-08 09:56:56 +0000    13809 bytes  dist/rtl/themes/airbnb.rtl.css</tspan>
-<tspan x="10" y="970"> 59.  2017-04-08 09:56:56 +0000    12906 bytes  dist/rtl/themes/base16_flat.rtl.css</tspan>
-<tspan x="10" y="986"> 60.  2017-04-08 09:56:56 +0000    13257 bytes  dist/rtl/themes/confetti.rtl.css</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-08 09:56:56 +0000    13071 bytes  dist/rtl/themes/dark.rtl.css</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-08 09:56:56 +0000    13158 bytes  dist/rtl/themes/material_blue.rtl.css</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-08 09:56:56 +0000    13257 bytes  dist/rtl/themes/material_green.rtl.css</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-08 09:56:56 +0000    13284 bytes  dist/rtl/themes/material_orange.rtl.css</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-08 09:56:56 +0000    13158 bytes  dist/rtl/themes/material_red.rtl.css</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-08 09:56:56 +0000    13803 bytes  dist/themes/airbnb.css</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-08 09:56:56 +0000    12897 bytes  dist/themes/base16_flat.css</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-08 09:56:56 +0000    13247 bytes  dist/themes/confetti.css</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-08 09:56:56 +0000    13062 bytes  dist/themes/dark.css</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-08 09:56:56 +0000    13148 bytes  dist/themes/material_blue.css</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-08 09:56:56 +0000    13247 bytes  dist/themes/material_green.css</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-08 09:56:56 +0000    13274 bytes  dist/themes/material_orange.css</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-08 09:56:56 +0000    13148 bytes  dist/themes/material_red.css</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-08 09:56:56 +0000    15086 bytes  favicon.ico</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-08 09:56:56 +0000     4161 bytes  favicon.png</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-08 09:56:56 +0000     4584 bytes  package.json</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-08 09:56:56 +0000      342 bytes  release</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-08 09:56:56 +0000    65741 bytes  src/flatpickr.js</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-08 09:56:56 +0000      740 bytes  src/l10n/ar.js</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-08 09:56:56 +0000      788 bytes  src/l10n/bg.js</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-08 09:56:56 +0000     1077 bytes  src/l10n/bn.js</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-08 09:56:56 +0000      907 bytes  src/l10n/cat.js</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-08 09:56:56 +0000      736 bytes  src/l10n/cs.js</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-08 09:56:56 +0000     1193 bytes  src/l10n/cy.js</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-08 09:56:56 +0000      679 bytes  src/l10n/da.js</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-08 09:56:56 +0000      753 bytes  src/l10n/de.js</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-08 09:56:56 +0000      727 bytes  src/l10n/es.js</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-08 09:56:56 +0000      953 bytes  src/l10n/et.js</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-08 09:56:56 +0000      878 bytes  src/l10n/fa.js</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-08 09:56:56 +0000      770 bytes  src/l10n/fi.js</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-08 09:56:56 +0000      770 bytes  src/l10n/fr.js</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-08 09:56:56 +0000      735 bytes  src/l10n/he.js</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-08 09:56:56 +0000      954 bytes  src/l10n/hi.js</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-08 09:56:56 +0000      687 bytes  src/l10n/hr.js</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-08 09:56:56 +0000      904 bytes  src/l10n/hu.js</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-08 09:56:56 +0000      712 bytes  src/l10n/id.js</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-08 09:56:56 +0000      880 bytes  src/l10n/it.js</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-08 09:56:56 +0000      635 bytes  src/l10n/ja.js</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-08 09:56:56 +0000      703 bytes  src/l10n/ko.js</tspan>
-<tspan x="10" y="1626">100.  2017-04-08 09:56:56 +0000      949 bytes  src/l10n/lt.js</tspan>
-<tspan x="10" y="1642">101.  2017-04-08 09:56:56 +0000      706 bytes  src/l10n/lv.js</tspan>
-<tspan x="10" y="1658">102.  2017-04-08 09:56:56 +0000      965 bytes  src/l10n/mk.js</tspan>
-<tspan x="10" y="1674">103.  2017-04-08 09:56:56 +0000      708 bytes  src/l10n/ms.js</tspan>
-<tspan x="10" y="1690">104.  2017-04-08 09:56:56 +0000     1078 bytes  src/l10n/my.js</tspan>
-<tspan x="10" y="1706">105.  2017-04-08 09:56:56 +0000      785 bytes  src/l10n/nl.js</tspan>
-<tspan x="10" y="1722">106.  2017-04-08 09:56:56 +0000      680 bytes  src/l10n/no.js</tspan>
-<tspan x="10" y="1738">107.  2017-04-08 09:56:56 +0000      948 bytes  src/l10n/pa.js</tspan>
-<tspan x="10" y="1754">108.  2017-04-08 09:56:56 +0000      699 bytes  src/l10n/pl.js</tspan>
-<tspan x="10" y="1770">109.  2017-04-08 09:56:56 +0000      708 bytes  src/l10n/pt.js</tspan>
-<tspan x="10" y="1786">110.  2017-04-08 09:56:56 +0000      733 bytes  src/l10n/ro.js</tspan>
-<tspan x="10" y="1802">111.  2017-04-08 09:56:56 +0000      850 bytes  src/l10n/ru.js</tspan>
-<tspan x="10" y="1818">112.  2017-04-08 09:56:56 +0000     1037 bytes  src/l10n/si.js</tspan>
-<tspan x="10" y="1834">113.  2017-04-08 09:56:56 +0000      626 bytes  src/l10n/sq.js</tspan>
-<tspan x="10" y="1850">114.  2017-04-08 09:56:56 +0000      785 bytes  src/l10n/sr.js</tspan>
-<tspan x="10" y="1866">115.  2017-04-08 09:56:56 +0000      765 bytes  src/l10n/sv.js</tspan>
-<tspan x="10" y="1882">116.  2017-04-08 09:56:56 +0000     1288 bytes  src/l10n/th.js</tspan>
-<tspan x="10" y="1898">117.  2017-04-08 09:56:56 +0000      668 bytes  src/l10n/tr.js</tspan>
-<tspan x="10" y="1914">118.  2017-04-08 09:56:56 +0000      857 bytes  src/l10n/uk.js</tspan>
-<tspan x="10" y="1930">119.  2017-04-08 09:56:56 +0000      753 bytes  src/l10n/vn.js</tspan>
-<tspan x="10" y="1946">120.  2017-04-08 09:56:56 +0000      712 bytes  src/l10n/zh.js</tspan>
-<tspan x="10" y="1962">121.  2017-04-08 09:56:56 +0000      373 bytes  src/plugins/confirmDate/confirmDate.css</tspan>
-<tspan x="10" y="1978">122.  2017-04-08 09:56:56 +0000     1757 bytes  src/plugins/confirmDate/confirmDate.js</tspan>
-<tspan x="10" y="1994">123.  2017-04-08 09:56:56 +0000      287 bytes  src/plugins/labelPlugin/labelPlugin.js</tspan>
-<tspan x="10" y="2010">124.  2017-04-08 09:56:56 +0000      100 bytes  src/plugins/weekSelect/weekSelect.css</tspan>
-<tspan x="10" y="2026">125.  2017-04-08 09:56:56 +0000     1920 bytes  src/plugins/weekSelect/weekSelect.js</tspan>
-<tspan x="10" y="2042">126.  2017-04-08 09:56:56 +0000    13259 bytes  src/style/flatpickr.styl</tspan>
-<tspan x="10" y="2058">127.  2017-04-08 09:56:56 +0000     1253 bytes  src/style/themes/airbnb.styl</tspan>
-<tspan x="10" y="2074">128.  2017-04-08 09:56:56 +0000      427 bytes  src/style/themes/base16_flat.styl</tspan>
-<tspan x="10" y="2090">129.  2017-04-08 09:56:56 +0000      343 bytes  src/style/themes/confetti.styl</tspan>
-<tspan x="10" y="2106">130.  2017-04-08 09:56:56 +0000      393 bytes  src/style/themes/dark.styl</tspan>
-<tspan x="10" y="2122">131.  2017-04-08 09:56:56 +0000      300 bytes  src/style/themes/material_blue.styl</tspan>
-<tspan x="10" y="2138">132.  2017-04-08 09:56:56 +0000      343 bytes  src/style/themes/material_green.styl</tspan>
-<tspan x="10" y="2154">133.  2017-04-08 09:56:56 +0000      343 bytes  src/style/themes/material_orange.styl</tspan>
-<tspan x="10" y="2170">134.  2017-04-08 09:56:56 +0000      345 bytes  src/style/themes/material_red.styl</tspan>
-<tspan x="10" y="2186">135.  2017-04-08 09:56:56 +0000    25525 bytes  test/flatpickr.spec.js</tspan>
-<tspan x="10" y="2202">136.  2017-04-08 09:56:56 +0000   126777 bytes  yarn.lock</tspan>
+<tspan x="10" y="26">  0.  2017-04-08 09:58:23 +0000   694977 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-08 09:58:23 +0000      958 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-08 09:58:23 +0000      340 bytes  ISSUE_TEMPLATE.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-08 09:58:23 +0000     1066 bytes  LICENSE.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-08 09:58:23 +0000    12543 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-08 09:58:23 +0000      497 bytes  bower.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-08 09:58:23 +0000    12867 bytes  dist/flatpickr.css</tspan>
+<tspan x="10" y="138">  7.  2017-04-08 09:58:23 +0000    66338 bytes  dist/flatpickr.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-08 09:58:23 +0000    10983 bytes  dist/flatpickr.min.css</tspan>
+<tspan x="10" y="170">  9.  2017-04-08 09:58:23 +0000    40404 bytes  dist/flatpickr.min.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-08 09:58:23 +0000      743 bytes  dist/l10n/ar.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-08 09:58:23 +0000      791 bytes  dist/l10n/bg.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-08 09:58:23 +0000     1080 bytes  dist/l10n/bn.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-08 09:58:23 +0000      929 bytes  dist/l10n/cat.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-08 09:58:23 +0000      740 bytes  dist/l10n/cs.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-08 09:58:23 +0000     1206 bytes  dist/l10n/cy.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-08 09:58:23 +0000      688 bytes  dist/l10n/da.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-08 09:58:23 +0000      756 bytes  dist/l10n/de.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-08 09:58:23 +0000      736 bytes  dist/l10n/es.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-08 09:58:23 +0000      957 bytes  dist/l10n/et.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-08 09:58:23 +0000      887 bytes  dist/l10n/fa.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-08 09:58:23 +0000      779 bytes  dist/l10n/fi.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-08 09:58:23 +0000      779 bytes  dist/l10n/fr.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-08 09:58:23 +0000      736 bytes  dist/l10n/he.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-08 09:58:23 +0000      967 bytes  dist/l10n/hi.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-08 09:58:23 +0000      690 bytes  dist/l10n/hr.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-08 09:58:23 +0000      908 bytes  dist/l10n/hu.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-08 09:58:23 +0000      721 bytes  dist/l10n/id.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-08 09:58:23 +0000      883 bytes  dist/l10n/it.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-08 09:58:23 +0000      638 bytes  dist/l10n/ja.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-08 09:58:23 +0000      709 bytes  dist/l10n/ko.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-08 09:58:23 +0000      953 bytes  dist/l10n/lt.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-08 09:58:23 +0000      708 bytes  dist/l10n/lv.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-08 09:58:23 +0000      969 bytes  dist/l10n/mk.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-08 09:58:23 +0000      717 bytes  dist/l10n/ms.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-08 09:58:23 +0000     1087 bytes  dist/l10n/my.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-08 09:58:23 +0000      796 bytes  dist/l10n/nl.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-08 09:58:23 +0000      689 bytes  dist/l10n/no.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-08 09:58:23 +0000      961 bytes  dist/l10n/pa.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-08 09:58:23 +0000      708 bytes  dist/l10n/pl.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-08 09:58:23 +0000      712 bytes  dist/l10n/pt.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-08 09:58:23 +0000      741 bytes  dist/l10n/ro.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-08 09:58:23 +0000      853 bytes  dist/l10n/ru.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-08 09:58:23 +0000     1040 bytes  dist/l10n/si.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-08 09:58:23 +0000      629 bytes  dist/l10n/sq.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-08 09:58:23 +0000      790 bytes  dist/l10n/sr.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-08 09:58:23 +0000      774 bytes  dist/l10n/sv.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-08 09:58:23 +0000     1297 bytes  dist/l10n/th.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-08 09:58:23 +0000      671 bytes  dist/l10n/tr.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-08 09:58:23 +0000      857 bytes  dist/l10n/uk.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-08 09:58:23 +0000      752 bytes  dist/l10n/vn.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-08 09:58:23 +0000      714 bytes  dist/l10n/zh.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-08 09:58:23 +0000      373 bytes  dist/plugins/confirmDate/confirmDate.css</tspan>
+<tspan x="10" y="874"> 53.  2017-04-08 09:58:23 +0000     1723 bytes  dist/plugins/confirmDate/confirmDate.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-08 09:58:23 +0000      305 bytes  dist/plugins/labelPlugin/labelPlugin.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-08 09:58:23 +0000      100 bytes  dist/plugins/weekSelect/weekSelect.css</tspan>
+<tspan x="10" y="922"> 56.  2017-04-08 09:58:23 +0000     1873 bytes  dist/plugins/weekSelect/weekSelect.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-08 09:58:23 +0000        0 bytes  dist/rtl/flatpickr.min.css</tspan>
+<tspan x="10" y="954"> 58.  2017-04-08 09:58:23 +0000    13809 bytes  dist/rtl/themes/airbnb.rtl.css</tspan>
+<tspan x="10" y="970"> 59.  2017-04-08 09:58:23 +0000    12906 bytes  dist/rtl/themes/base16_flat.rtl.css</tspan>
+<tspan x="10" y="986"> 60.  2017-04-08 09:58:23 +0000    13257 bytes  dist/rtl/themes/confetti.rtl.css</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-08 09:58:23 +0000    13071 bytes  dist/rtl/themes/dark.rtl.css</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-08 09:58:23 +0000    13158 bytes  dist/rtl/themes/material_blue.rtl.css</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-08 09:58:23 +0000    13257 bytes  dist/rtl/themes/material_green.rtl.css</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-08 09:58:23 +0000    13284 bytes  dist/rtl/themes/material_orange.rtl.css</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-08 09:58:23 +0000    13158 bytes  dist/rtl/themes/material_red.rtl.css</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-08 09:58:23 +0000    13803 bytes  dist/themes/airbnb.css</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-08 09:58:23 +0000    12897 bytes  dist/themes/base16_flat.css</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-08 09:58:23 +0000    13247 bytes  dist/themes/confetti.css</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-08 09:58:23 +0000    13062 bytes  dist/themes/dark.css</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-08 09:58:23 +0000    13148 bytes  dist/themes/material_blue.css</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-08 09:58:23 +0000    13247 bytes  dist/themes/material_green.css</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-08 09:58:23 +0000    13274 bytes  dist/themes/material_orange.css</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-08 09:58:23 +0000    13148 bytes  dist/themes/material_red.css</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-08 09:58:23 +0000    15086 bytes  favicon.ico</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-08 09:58:23 +0000     4161 bytes  favicon.png</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-08 09:58:23 +0000     4584 bytes  package.json</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-08 09:58:23 +0000      342 bytes  release</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-08 09:58:23 +0000    65741 bytes  src/flatpickr.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-08 09:58:23 +0000      740 bytes  src/l10n/ar.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-08 09:58:23 +0000      788 bytes  src/l10n/bg.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-08 09:58:23 +0000     1077 bytes  src/l10n/bn.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-08 09:58:23 +0000      907 bytes  src/l10n/cat.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-08 09:58:23 +0000      736 bytes  src/l10n/cs.js</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-08 09:58:23 +0000     1193 bytes  src/l10n/cy.js</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-08 09:58:23 +0000      679 bytes  src/l10n/da.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-08 09:58:23 +0000      753 bytes  src/l10n/de.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-08 09:58:23 +0000      727 bytes  src/l10n/es.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-08 09:58:23 +0000      953 bytes  src/l10n/et.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-08 09:58:23 +0000      878 bytes  src/l10n/fa.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-08 09:58:23 +0000      770 bytes  src/l10n/fi.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-08 09:58:23 +0000      770 bytes  src/l10n/fr.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-08 09:58:23 +0000      735 bytes  src/l10n/he.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-08 09:58:23 +0000      954 bytes  src/l10n/hi.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-08 09:58:23 +0000      687 bytes  src/l10n/hr.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-08 09:58:23 +0000      904 bytes  src/l10n/hu.js</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-08 09:58:23 +0000      712 bytes  src/l10n/id.js</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-08 09:58:23 +0000      880 bytes  src/l10n/it.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-08 09:58:23 +0000      635 bytes  src/l10n/ja.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-08 09:58:23 +0000      703 bytes  src/l10n/ko.js</tspan>
+<tspan x="10" y="1626">100.  2017-04-08 09:58:23 +0000      949 bytes  src/l10n/lt.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-08 09:58:23 +0000      706 bytes  src/l10n/lv.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-08 09:58:23 +0000      965 bytes  src/l10n/mk.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-08 09:58:23 +0000      708 bytes  src/l10n/ms.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-08 09:58:23 +0000     1078 bytes  src/l10n/my.js</tspan>
+<tspan x="10" y="1706">105.  2017-04-08 09:58:23 +0000      785 bytes  src/l10n/nl.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-08 09:58:23 +0000      680 bytes  src/l10n/no.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-08 09:58:23 +0000      948 bytes  src/l10n/pa.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-08 09:58:23 +0000      699 bytes  src/l10n/pl.js</tspan>
+<tspan x="10" y="1770">109.  2017-04-08 09:58:23 +0000      708 bytes  src/l10n/pt.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-08 09:58:23 +0000      733 bytes  src/l10n/ro.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-08 09:58:23 +0000      850 bytes  src/l10n/ru.js</tspan>
+<tspan x="10" y="1818">112.  2017-04-08 09:58:23 +0000     1037 bytes  src/l10n/si.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-08 09:58:23 +0000      626 bytes  src/l10n/sq.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-08 09:58:23 +0000      785 bytes  src/l10n/sr.js</tspan>
+<tspan x="10" y="1866">115.  2017-04-08 09:58:23 +0000      765 bytes  src/l10n/sv.js</tspan>
+<tspan x="10" y="1882">116.  2017-04-08 09:58:23 +0000     1288 bytes  src/l10n/th.js</tspan>
+<tspan x="10" y="1898">117.  2017-04-08 09:58:23 +0000      668 bytes  src/l10n/tr.js</tspan>
+<tspan x="10" y="1914">118.  2017-04-08 09:58:23 +0000      857 bytes  src/l10n/uk.js</tspan>
+<tspan x="10" y="1930">119.  2017-04-08 09:58:23 +0000      753 bytes  src/l10n/vn.js</tspan>
+<tspan x="10" y="1946">120.  2017-04-08 09:58:23 +0000      712 bytes  src/l10n/zh.js</tspan>
+<tspan x="10" y="1962">121.  2017-04-08 09:58:23 +0000      373 bytes  src/plugins/confirmDate/confirmDate.css</tspan>
+<tspan x="10" y="1978">122.  2017-04-08 09:58:23 +0000     1757 bytes  src/plugins/confirmDate/confirmDate.js</tspan>
+<tspan x="10" y="1994">123.  2017-04-08 09:58:23 +0000      287 bytes  src/plugins/labelPlugin/labelPlugin.js</tspan>
+<tspan x="10" y="2010">124.  2017-04-08 09:58:23 +0000      100 bytes  src/plugins/weekSelect/weekSelect.css</tspan>
+<tspan x="10" y="2026">125.  2017-04-08 09:58:23 +0000     1920 bytes  src/plugins/weekSelect/weekSelect.js</tspan>
+<tspan x="10" y="2042">126.  2017-04-08 09:58:23 +0000    13259 bytes  src/style/flatpickr.styl</tspan>
+<tspan x="10" y="2058">127.  2017-04-08 09:58:23 +0000     1253 bytes  src/style/themes/airbnb.styl</tspan>
+<tspan x="10" y="2074">128.  2017-04-08 09:58:23 +0000      427 bytes  src/style/themes/base16_flat.styl</tspan>
+<tspan x="10" y="2090">129.  2017-04-08 09:58:23 +0000      343 bytes  src/style/themes/confetti.styl</tspan>
+<tspan x="10" y="2106">130.  2017-04-08 09:58:23 +0000      393 bytes  src/style/themes/dark.styl</tspan>
+<tspan x="10" y="2122">131.  2017-04-08 09:58:23 +0000      300 bytes  src/style/themes/material_blue.styl</tspan>
+<tspan x="10" y="2138">132.  2017-04-08 09:58:23 +0000      343 bytes  src/style/themes/material_green.styl</tspan>
+<tspan x="10" y="2154">133.  2017-04-08 09:58:23 +0000      343 bytes  src/style/themes/material_orange.styl</tspan>
+<tspan x="10" y="2170">134.  2017-04-08 09:58:23 +0000      345 bytes  src/style/themes/material_red.styl</tspan>
+<tspan x="10" y="2186">135.  2017-04-08 09:58:23 +0000    25525 bytes  test/flatpickr.spec.js</tspan>
+<tspan x="10" y="2202">136.  2017-04-08 09:58:23 +0000   126777 bytes  yarn.lock</tspan>
 </text>
 </svg>
